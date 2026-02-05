@@ -20,7 +20,7 @@ app.use('/reservatorios', reservatoriosRoutes);
 app.use('/sensores', sensoresRoutes); // Handles /sensores/vincular, /sensores/:reservatorio_id
 
 // Special route alias for /sensor/status/:devId to match requirements exactly
-app.use('/sensor', sensoresRoutes); // Handles /sensor/status/:devId (and duplicates others, but acceptable)
+app.use('/sensor', sensoresRoutes); // Handles /sensor/status/:devId
 
 // Health Check
 app.get('/', (req, res) => {
@@ -31,4 +31,13 @@ app.get('/', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Servidor rodando na porta ${PORT}`);
     console.log(`Teste a API em: http://localhost:${PORT}`);
+
+    // Iniciar Worker de Sincronização
+    // Apenas se não estiver em ambiente de teste (opcional)
+    try {
+        const tuyaWorker = require('./src/workers/tuyaSync');
+        tuyaWorker.start();
+    } catch (e) {
+        console.error('Erro ao iniciar worker:', e);
+    }
 });
