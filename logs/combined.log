@@ -1,0 +1,511 @@
+2026-02-06 01:04:50:450 info: Servidor rodando na porta 3000
+2026-02-06 01:04:50:450 info: Teste a API em: http://localhost:3000
+2026-02-06 01:05:37:537 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:05:38:538 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:05:38:538 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:05:38:538 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:05:38:538 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:05:39:539 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:05:39:539 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:05:39:539 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:05:39:539 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:05:39:539 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:05:39:539 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:05:40:540 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:05:40:540 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:05:40:540 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:05:40:540 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:05:40:540 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:05:44:544 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:05:44:544 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:05:44:544 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:05:45:545 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:05:50:550 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:05:50:550 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:05:50:550 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:05:50:550 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:05:55:555 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:05:55:555 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:05:55:555 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:05:55:555 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:00:60 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:00:60 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:00:60 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:01:61 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:05:65 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:05:65 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:05:65 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:05:65 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:10:610 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:10:610 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:10:610 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:10:610 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:15:615 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:15:615 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:15:615 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:15:615 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:20:620 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:20:620 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:20:620 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:20:620 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:25:625 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:25:625 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:25:625 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:25:625 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:30:630 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:30:630 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:30:630 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:30:630 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:35:635 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:35:635 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:35:635 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:35:635 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:40:640 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:40:640 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:40:640 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:40:640 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:45:645 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:45:645 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:06:45:645 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:06:45:645 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:11:711 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:11:711 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:11:711 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:12:712 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:14:714 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:15:715 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:15:715 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:15:715 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:20:720 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:20:720 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:20:720 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:20:720 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:25:725 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:25:725 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:25:725 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:25:725 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:30:730 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:30:730 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:30:730 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:30:730 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:35:735 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:35:735 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:35:735 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:35:735 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:40:740 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:40:740 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:40:740 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:40:740 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:45:745 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:45:745 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:45:745 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:45:745 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:50:750 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:50:750 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:50:750 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:50:750 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:55:755 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:55:755 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:07:55:755 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:07:55:755 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:08:00:80 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:08:00:80 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:08:00:80 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:08:01:81 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:08:05:85 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:08:05:85 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:08:05:85 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:08:05:85 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:08:10:810 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:08:10:810 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:08:10:810 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:08:10:810 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:08:15:815 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:08:15:815 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:08:15:815 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:08:15:815 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:08:29:829 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:08:29:829 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:08:29:829 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:08:30:830 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:09:29:929 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:09:29:929 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:09:29:929 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:09:30:930 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:10:29:1029 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:10:29:1029 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:10:29:1029 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:10:30:1030 warn: [CRITICAL STATE] - eb5961daada3fea21cvjau (Nível: 100%, Bomba: false). Cache ignorado.
+2026-02-06 01:11:29:1129 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:11:29:1129 info: [CACHE SET] - eb5961daada3fea21cvjau Armazenado por 60s.
+2026-02-06 01:13:17:1317 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 01:13:17:1317 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:13:18:1318 info: [CACHE SET] - eb5961daada3fea21cvjau Armazenado por 60s.
+2026-02-06 01:27:03:273 info: Servidor rodando na porta 3000
+2026-02-06 01:27:03:273 info: Teste a API em: http://localhost:3000
+2026-02-06 01:27:10:2710 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:27:11:2711 info: [CACHE SET] - eb5961daada3fea21cvjau Armazenado por 60s.
+2026-02-06 01:30:06:306 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 01:30:06:306 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:30:06:306 info: [CACHE SET] - eb5961daada3fea21cvjau Armazenado por 60s.
+2026-02-06 01:33:59:3359 info: Servidor rodando na porta 3000
+2026-02-06 01:33:59:3359 info: Teste a API em: http://localhost:3000
+2026-02-06 01:35:52:3552 info: Servidor rodando na porta 3000
+2026-02-06 01:35:52:3552 info: Teste a API em: http://localhost:3000
+2026-02-06 01:35:55:3555 info: Servidor rodando na porta 3000
+2026-02-06 01:35:55:3555 info: Teste a API em: http://localhost:3000
+2026-02-06 01:45:49:4549 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:45:50:4550 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 01:48:39:4839 info: Servidor rodando na porta 3000
+2026-02-06 01:48:39:4839 info: Teste a API em: http://localhost:3000
+2026-02-06 01:54:01:541 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 01:54:02:542 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 01:58:26:5826 info: Servidor rodando na porta 3000
+2026-02-06 01:58:26:5826 info: Teste a API em: http://localhost:3000
+2026-02-06 02:01:49:149 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 02:01:50:150 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 02:03:12:312 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 02:03:12:312 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 02:03:13:313 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 02:26:57:2657 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 02:26:57:2657 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 02:26:58:2658 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 02:29:24:2924 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 02:29:24:2924 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 02:29:25:2925 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 02:34:11:3411 info: Servidor rodando na porta 3000
+2026-02-06 02:34:11:3411 info: Teste a API em: http://localhost:3000
+2026-02-06 02:38:41:3841 info: Servidor rodando na porta 3000
+2026-02-06 02:38:41:3841 info: Teste a API em: http://localhost:3000
+2026-02-06 02:38:53:3853 info: Servidor rodando na porta 3000
+2026-02-06 02:38:53:3853 info: Teste a API em: http://localhost:3000
+2026-02-06 02:39:14:3914 info: Servidor rodando na porta 3000
+2026-02-06 02:39:14:3914 info: Teste a API em: http://localhost:3000
+2026-02-06 02:39:17:3917 info: Servidor rodando na porta 3000
+2026-02-06 02:39:17:3917 info: Teste a API em: http://localhost:3000
+2026-02-06 02:39:22:3922 info: Servidor rodando na porta 3000
+2026-02-06 02:39:22:3922 info: Teste a API em: http://localhost:3000
+2026-02-06 02:39:27:3927 info: Servidor rodando na porta 3000
+2026-02-06 02:39:27:3927 info: Teste a API em: http://localhost:3000
+2026-02-06 02:39:36:3936 info: Servidor rodando na porta 3000
+2026-02-06 02:39:36:3936 info: Teste a API em: http://localhost:3000
+2026-02-06 02:40:00:400 info: Servidor rodando na porta 3000
+2026-02-06 02:40:00:400 info: Teste a API em: http://localhost:3000
+2026-02-06 02:41:40:4140 info: Servidor rodando na porta 3000
+2026-02-06 02:41:40:4140 info: Teste a API em: http://localhost:3000
+2026-02-06 02:45:55:4555 info: Servidor rodando na porta 3000
+2026-02-06 02:45:55:4555 info: Teste a API em: http://localhost:3000
+2026-02-06 02:54:13:5413 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 02:54:14:5414 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 02:55:20:5520 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 02:55:20:5520 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 02:55:20:5520 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 03:08:16:816 info: Servidor rodando na porta 3000
+2026-02-06 03:08:16:816 info: Teste a API em: http://localhost:3000
+2026-02-06 03:08:18:818 info: Servidor rodando na porta 3000
+2026-02-06 03:08:18:818 info: Teste a API em: http://localhost:3000
+2026-02-06 03:15:25:1525 info: Servidor rodando na porta 3000
+2026-02-06 03:15:25:1525 info: Teste a API em: http://localhost:3000
+2026-02-06 03:16:37:1637 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 03:16:38:1638 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 03:18:29:1829 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 03:18:29:1829 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 03:18:29:1829 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 03:20:39:2039 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 03:20:40:2040 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 03:20:40:2040 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 03:27:15:2715 info: Servidor rodando na porta 3000
+2026-02-06 03:27:15:2715 info: Teste a API em: http://localhost:3000
+2026-02-06 03:27:27:2727 info: Servidor rodando na porta 3000
+2026-02-06 03:27:27:2727 info: Teste a API em: http://localhost:3000
+2026-02-06 03:27:29:2729 info: Servidor rodando na porta 3000
+2026-02-06 03:27:29:2729 info: Teste a API em: http://localhost:3000
+2026-02-06 03:27:46:2746 info: Servidor rodando na porta 3000
+2026-02-06 03:27:46:2746 info: Teste a API em: http://localhost:3000
+2026-02-06 03:30:15:3015 info: Servidor rodando na porta 3000
+2026-02-06 03:30:15:3015 info: Teste a API em: http://localhost:3000
+2026-02-06 03:38:56:3856 info: Servidor rodando na porta 3000
+2026-02-06 03:38:56:3856 info: Teste a API em: http://localhost:3000
+2026-02-06 03:44:53:4453 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 03:44:53:4453 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 03:50:07:507 info: Servidor rodando na porta 3000
+2026-02-06 03:50:07:507 info: Teste a API em: http://localhost:3000
+2026-02-06 03:50:16:5016 info: Servidor rodando na porta 3000
+2026-02-06 03:50:16:5016 info: Teste a API em: http://localhost:3000
+2026-02-06 03:50:19:5019 info: Servidor rodando na porta 3000
+2026-02-06 03:50:19:5019 info: Teste a API em: http://localhost:3000
+2026-02-06 04:11:28:1128 info: Servidor rodando na porta 3000
+2026-02-06 04:11:28:1128 info: Teste a API em: http://localhost:3000
+2026-02-06 04:18:44:1844 info: Servidor rodando na porta 3000
+2026-02-06 04:18:44:1844 info: Teste a API em: http://localhost:3000
+2026-02-06 04:18:57:1857 info: Servidor rodando na porta 3000
+2026-02-06 04:18:57:1857 info: Teste a API em: http://localhost:3000
+2026-02-06 04:21:43:2143 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 04:21:44:2144 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 04:27:33:2733 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 04:27:33:2733 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 04:27:34:2734 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 04:28:46:2846 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 04:28:46:2846 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 04:28:46:2846 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 04:39:46:3946 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 04:39:46:3946 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 04:39:47:3947 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 04:45:15:4515 info: Servidor rodando na porta 3000
+2026-02-06 04:45:15:4515 info: Teste a API em: http://localhost:3000
+2026-02-06 04:46:39:4639 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:46:39:4639 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:47:45:4745 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:47:45:4745 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:47:45:4745 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:47:45:4745 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:48:10:4810 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:48:10:4810 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:48:10:4810 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:48:10:4810 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:49:08:498 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:49:08:498 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:49:08:498 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:49:08:498 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:49:33:4933 info: Servidor rodando na porta 3000
+2026-02-06 04:49:33:4933 info: Teste a API em: http://localhost:3000
+2026-02-06 04:49:57:4957 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 04:49:57:4957 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:00:43:043 info: Servidor rodando na porta 3000
+2026-02-06 05:00:43:043 info: Teste a API em: http://localhost:3000
+2026-02-06 05:00:45:045 info: Servidor rodando na porta 3000
+2026-02-06 05:00:45:045 info: Teste a API em: http://localhost:3000
+2026-02-06 05:04:10:410 error: Wizard Error: Sensor eb5961daada3fea21cvjau já está em uso.
+2026-02-06 05:05:14:514 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:05:14:514 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:06:30:630 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 05:06:30:630 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:06:31:631 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:09:06:96 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 05:09:06:96 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:09:07:97 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:10:38:1038 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 05:10:38:1038 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:10:38:1038 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:11:33:1133 warn: Validation Error on /reservatorios/10: "condominio_id" is not allowed
+2026-02-06 05:11:34:1134 warn: Validation Error on /reservatorios/10: "condominio_id" is not allowed
+2026-02-06 05:11:37:1137 warn: Validation Error on /reservatorios/10: "condominio_id" is not allowed
+2026-02-06 05:11:45:1145 warn: Validation Error on /reservatorios/10: "condominio_id" is not allowed
+2026-02-06 05:11:46:1146 warn: Validation Error on /reservatorios/10: "condominio_id" is not allowed
+2026-02-06 05:11:57:1157 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 05:11:57:1157 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:11:58:1158 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:14:39:1439 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 05:14:39:1439 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:14:40:1440 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:16:36:1636 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 05:16:36:1636 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:16:37:1637 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:19:02:192 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 05:19:02:192 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:19:02:192 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:21:59:2159 warn: Validation Error on /reservatorios/3: "condominio_id" is not allowed
+2026-02-06 05:22:06:226 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 05:22:06:226 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:22:06:226 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:22:31:2231 warn: Validation Error on /reservatorios/3: "condominio_id" is not allowed
+2026-02-06 05:23:19:2319 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 05:23:19:2319 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:23:20:2320 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:23:22:2322 info: Servidor rodando na porta 3000
+2026-02-06 05:23:22:2322 info: Teste a API em: http://localhost:3000
+2026-02-06 05:23:24:2324 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:23:24:2324 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:23:26:2326 info: Servidor rodando na porta 3000
+2026-02-06 05:23:26:2326 info: Teste a API em: http://localhost:3000
+2026-02-06 05:24:10:2410 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:24:11:2411 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:24:19:2419 warn: Validation Error on /reservatorios/3: "condominio_id" is not allowed
+2026-02-06 05:24:23:2423 warn: Validation Error on /reservatorios/3: "condominio_id" is not allowed
+2026-02-06 05:25:41:2541 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 05:25:41:2541 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:25:41:2541 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:25:55:2555 warn: Validation Error on /reservatorios/3: "condominio_id" is not allowed
+2026-02-06 05:25:56:2556 warn: Validation Error on /reservatorios/3: "condominio_id" is not allowed
+2026-02-06 05:25:57:2557 warn: Validation Error on /reservatorios/3: "condominio_id" is not allowed
+2026-02-06 05:26:14:2614 warn: Validation Error on /reservatorios/10: "condominio_id" is not allowed
+2026-02-06 05:29:17:2917 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 05:29:17:2917 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:29:17:2917 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:29:23:2923 warn: Validation Error on /reservatorios/3: "condominio_id" is not allowed
+2026-02-06 05:29:39:2939 warn: Validation Error on /reservatorios/10: "condominio_id" is not allowed
+2026-02-06 05:30:58:3058 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 05:30:58:3058 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:30:59:3059 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:31:08:318 warn: Validation Error on /reservatorios/3: "condominio_id" is not allowed
+2026-02-06 05:31:20:3120 warn: Validation Error on /reservatorios/11: "condominio_id" is not allowed
+2026-02-06 05:32:20:3220 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 05:32:20:3220 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:32:21:3221 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:33:27:3327 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 05:33:27:3327 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:33:28:3328 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:34:50:3450 warn: Validation Error on /reservatorios/3: "condominio_id" is not allowed
+2026-02-06 05:35:29:3529 warn: Validation Error on /reservatorios/10: "condominio_id" is not allowed
+2026-02-06 05:36:25:3625 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 05:36:25:3625 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:36:26:3626 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 05:44:46:4446 info: Servidor rodando na porta 3000
+2026-02-06 05:44:46:4446 info: Teste a API em: http://localhost:3000
+2026-02-06 05:45:04:454 info: Servidor rodando na porta 3000
+2026-02-06 05:45:04:454 info: Teste a API em: http://localhost:3000
+2026-02-06 05:45:10:4510 info: Servidor rodando na porta 3000
+2026-02-06 05:45:10:4510 info: Teste a API em: http://localhost:3000
+2026-02-06 05:45:13:4513 info: Servidor rodando na porta 3000
+2026-02-06 05:45:13:4513 info: Teste a API em: http://localhost:3000
+2026-02-06 05:46:03:463 info: Servidor rodando na porta 3000
+2026-02-06 05:46:03:463 info: Teste a API em: http://localhost:3000
+2026-02-06 05:49:13:4913 info: Servidor rodando na porta 3000
+2026-02-06 05:49:13:4913 info: Teste a API em: http://localhost:3000
+2026-02-06 05:49:56:4956 info: Servidor rodando na porta 3000
+2026-02-06 05:49:56:4956 info: Teste a API em: http://localhost:3000
+2026-02-06 05:52:46:5246 info: Servidor rodando na porta 3000
+2026-02-06 05:52:46:5246 info: Teste a API em: http://localhost:3000
+2026-02-06 05:53:56:5356 info: Servidor rodando na porta 3000
+2026-02-06 05:53:56:5356 info: Teste a API em: http://localhost:3000
+2026-02-06 05:55:43:5543 info: Servidor rodando na porta 3000
+2026-02-06 05:55:43:5543 info: Teste a API em: http://localhost:3000
+2026-02-06 05:59:05:595 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 05:59:05:595 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 13:08:37:837 info: Servidor rodando na porta 3000
+2026-02-06 13:08:37:837 info: Teste a API em: http://localhost:3000
+2026-02-06 13:10:48:1048 warn: Validation Error on /sensores/vincular: "nome" is not allowed to be empty
+2026-02-06 13:10:50:1050 warn: Validation Error on /sensores/vincular: "nome" is not allowed to be empty
+2026-02-06 13:12:48:1248 warn: Validation Error on /sensores/vincular: "nome" is not allowed to be empty
+2026-02-06 13:12:50:1250 warn: Validation Error on /sensores/vincular: "nome" is not allowed to be empty
+2026-02-06 13:12:51:1251 warn: Validation Error on /sensores/vincular: "nome" is not allowed to be empty
+2026-02-06 13:14:01:141 info: [API FETCH] - Consultando Tuya para ebfcdd95e8f49a2d49jktu
+2026-02-06 13:14:01:141 warn: [CRITICAL STATE] - ebfcdd95e8f49a2d49jktu (Nível: 50%). Cache reduzido para 10s.
+2026-02-06 13:14:26:1426 info: [CACHE EXPIRED] - ebfcdd95e8f49a2d49jktu (TTL 10s)
+2026-02-06 13:14:26:1426 info: [API FETCH] - Consultando Tuya para ebfcdd95e8f49a2d49jktu
+2026-02-06 13:14:27:1427 warn: [CRITICAL STATE] - ebfcdd95e8f49a2d49jktu (Nível: 50%). Cache reduzido para 10s.
+2026-02-06 13:14:40:1440 info: [CACHE EXPIRED] - ebfcdd95e8f49a2d49jktu (TTL 10s)
+2026-02-06 13:14:40:1440 info: [API FETCH] - Consultando Tuya para ebfcdd95e8f49a2d49jktu
+2026-02-06 13:14:41:1441 warn: [CRITICAL STATE] - ebfcdd95e8f49a2d49jktu (Nível: 50%). Cache reduzido para 10s.
+2026-02-06 13:14:56:1456 info: [CACHE EXPIRED] - ebfcdd95e8f49a2d49jktu (TTL 10s)
+2026-02-06 13:14:56:1456 info: [API FETCH] - Consultando Tuya para ebfcdd95e8f49a2d49jktu
+2026-02-06 13:14:56:1456 warn: [CRITICAL STATE] - ebfcdd95e8f49a2d49jktu (Nível: 50%). Cache reduzido para 10s.
+2026-02-06 13:15:58:1558 info: [CACHE EXPIRED] - ebfcdd95e8f49a2d49jktu (TTL 10s)
+2026-02-06 13:15:58:1558 info: [API FETCH] - Consultando Tuya para ebfcdd95e8f49a2d49jktu
+2026-02-06 13:15:59:1559 warn: [CRITICAL STATE] - ebfcdd95e8f49a2d49jktu (Nível: 50%). Cache reduzido para 10s.
+2026-02-06 13:17:10:1710 info: [CACHE EXPIRED] - ebfcdd95e8f49a2d49jktu (TTL 10s)
+2026-02-06 13:17:10:1710 info: [API FETCH] - Consultando Tuya para ebfcdd95e8f49a2d49jktu
+2026-02-06 13:17:12:1712 warn: [CRITICAL STATE] - ebfcdd95e8f49a2d49jktu (Nível: 50%). Cache reduzido para 10s.
+2026-02-06 13:18:10:1810 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 13:18:11:1811 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 13:18:30:1830 info: [CACHE EXPIRED] - ebfcdd95e8f49a2d49jktu (TTL 10s)
+2026-02-06 13:18:30:1830 info: [API FETCH] - Consultando Tuya para ebfcdd95e8f49a2d49jktu
+2026-02-06 13:18:30:1830 warn: [CRITICAL STATE] - ebfcdd95e8f49a2d49jktu (Nível: 50%). Cache reduzido para 10s.
+2026-02-06 13:18:49:1849 info: [CACHE EXPIRED] - ebfcdd95e8f49a2d49jktu (TTL 10s)
+2026-02-06 13:18:49:1849 info: [API FETCH] - Consultando Tuya para ebfcdd95e8f49a2d49jktu
+2026-02-06 13:18:51:1851 warn: [CRITICAL STATE] - ebfcdd95e8f49a2d49jktu (Nível: 50%). Cache reduzido para 10s.
+2026-02-06 13:21:49:2149 info: [CACHE EXPIRED] - ebfcdd95e8f49a2d49jktu (TTL 10s)
+2026-02-06 13:21:49:2149 info: [API FETCH] - Consultando Tuya para ebfcdd95e8f49a2d49jktu
+2026-02-06 13:21:50:2150 warn: [CRITICAL STATE] - ebfcdd95e8f49a2d49jktu (Nível: 50%). Cache reduzido para 10s.
+2026-02-06 13:24:45:2445 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 13:24:45:2445 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 13:24:46:2446 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 13:25:47:2547 info: [CACHE EXPIRED] - ebfcdd95e8f49a2d49jktu (TTL 10s)
+2026-02-06 13:25:47:2547 info: [API FETCH] - Consultando Tuya para ebfcdd95e8f49a2d49jktu
+2026-02-06 13:25:47:2547 warn: [CRITICAL STATE] - ebfcdd95e8f49a2d49jktu (Nível: 50%). Cache reduzido para 10s.
+2026-02-06 13:26:00:260 info: [CACHE EXPIRED] - eb5961daada3fea21cvjau (TTL 60s)
+2026-02-06 13:26:00:260 info: [API FETCH] - Consultando Tuya para eb5961daada3fea21cvjau
+2026-02-06 13:26:00:260 info: [CACHE SET] - eb5961daada3fea21cvjau Cache padrão 60s.
+2026-02-06 13:26:05:265 info: [CACHE EXPIRED] - ebfcdd95e8f49a2d49jktu (TTL 10s)
+2026-02-06 13:26:05:265 info: [API FETCH] - Consultando Tuya para ebfcdd95e8f49a2d49jktu
+2026-02-06 13:26:05:265 warn: [CRITICAL STATE] - ebfcdd95e8f49a2d49jktu (Nível: 50%). Cache reduzido para 10s.
+2026-02-06 14:22:17:2217 info: [CACHE EXPIRED] - ebfcdd95e8f49a2d49jktu (TTL 10s)
+2026-02-06 14:22:17:2217 info: [API FETCH] - Consultando Tuya para ebfcdd95e8f49a2d49jktu
+2026-02-06 14:22:18:2218 warn: [CRITICAL STATE] - ebfcdd95e8f49a2d49jktu (Nível: 50%). Cache reduzido para 10s.
+2026-02-06 14:42:51:4251 info: Servidor rodando na porta 3000
+2026-02-06 14:42:51:4251 info: Teste a API em: http://localhost:3000
+2026-02-06 14:43:03:433 info: Servidor rodando na porta 3000
+2026-02-06 14:43:03:433 info: Teste a API em: http://localhost:3000
+2026-02-06 15:21:11:2111 info: Servidor rodando na porta 3000
+2026-02-06 15:21:11:2111 info: Teste a API em: http://localhost:3000
+2026-02-06 15:23:48:2348 info: Servidor rodando na porta 3000
+2026-02-06 15:23:48:2348 info: Teste a API em: http://localhost:3000
+2026-02-06 15:26:38:2638 info: Servidor rodando na porta 3000
+2026-02-06 15:26:38:2638 info: Teste a API em: http://localhost:3000
+2026-02-06 15:27:00:270 info: Servidor rodando na porta 3000
+2026-02-06 15:27:00:270 info: Teste a API em: http://localhost:3000
+2026-02-06 15:27:25:2725 info: Servidor rodando na porta 3000
+2026-02-06 15:27:25:2725 info: Teste a API em: http://localhost:3000
+2026-02-06 15:27:47:2747 info: Servidor rodando na porta 3000
+2026-02-06 15:27:47:2747 info: Teste a API em: http://localhost:3000
+2026-02-06 15:27:48:2748 info: Servidor rodando na porta 3000
+2026-02-06 15:27:48:2748 info: Teste a API em: http://localhost:3000
+2026-02-06 15:37:04:374 info: Servidor rodando na porta 3000
+2026-02-06 15:37:04:374 info: Teste a API em: http://localhost:3000
+2026-02-06 15:41:30:4130 info: Servidor rodando na porta 3000
+2026-02-06 15:41:30:4130 info: Teste a API em: http://localhost:3000
+2026-02-06 15:42:52:4252 info: Servidor rodando na porta 3000
+2026-02-06 15:42:52:4252 info: Teste a API em: http://localhost:3000
+2026-02-06 15:42:54:4254 info: Servidor rodando na porta 3000
+2026-02-06 15:42:54:4254 info: Teste a API em: http://localhost:3000
+2026-02-06 15:44:01:441 info: Servidor rodando na porta 3000
+2026-02-06 15:44:01:441 info: Teste a API em: http://localhost:3000
+2026-02-06 16:11:51:1151 info: Servidor rodando na porta 3000
+2026-02-06 16:11:51:1151 info: Teste a API em: http://localhost:3000
+2026-02-06 16:36:44:3644 info: Servidor rodando na porta 3000
+2026-02-06 16:36:44:3644 info: Teste a API em: http://localhost:3000
+2026-02-06 16:37:50:3750 info: Servidor rodando na porta 3000
+2026-02-06 16:37:50:3750 info: Teste a API em: http://localhost:3000
+2026-02-09 12:34:10:3410 info: Servidor rodando na porta 3000
+2026-02-09 12:34:10:3410 info: Teste a API em: http://localhost:3000
+2026-02-09 12:34:34:3434 info: Servidor rodando na porta 3000
+2026-02-09 12:34:34:3434 info: Teste a API em: http://localhost:3000
+2026-02-09 13:34:57:3457 info: Servidor rodando na porta 3000
+2026-02-09 13:34:57:3457 info: Teste a API em: http://localhost:3000
+2026-02-09 13:35:01:351 info: Servidor rodando na porta 3000
+2026-02-09 13:35:01:351 info: Teste a API em: http://localhost:3000
+2026-02-09 13:35:26:3526 info: Servidor rodando na porta 3000
+2026-02-09 13:35:26:3526 info: Teste a API em: http://localhost:3000
+2026-02-09 13:36:10:3610 info: Servidor rodando na porta 3000
+2026-02-09 13:36:10:3610 info: Teste a API em: http://localhost:3000
+2026-02-09 22:43:36:4336 info: Servidor rodando na porta 3000
+2026-02-09 22:43:36:4336 info: Teste a API em: http://localhost:3000
+2026-02-09 22:43:41:4341 info: Servidor rodando na porta 3000
+2026-02-09 22:43:41:4341 info: Teste a API em: http://localhost:3000
+2026-02-09 22:43:53:4353 info: Servidor rodando na porta 3000
+2026-02-09 22:43:53:4353 info: Teste a API em: http://localhost:3000
+2026-02-09 23:08:25:825 info: Servidor rodando na porta 3000
+2026-02-09 23:08:25:825 info: Teste a API em: http://localhost:3000
+2026-02-10 14:51:51:5151 info: Servidor rodando na porta 3000
+2026-02-10 14:51:51:5151 info: Teste a API em: http://localhost:3000
+2026-02-10 14:57:23:5723 info: Servidor rodando na porta 3000
+2026-02-10 14:57:23:5723 info: Teste a API em: http://localhost:3000
+2026-02-10 14:57:25:5725 info: Servidor rodando na porta 3000
+2026-02-10 14:57:25:5725 info: Teste a API em: http://localhost:3000
+2026-02-10 14:57:55:5755 info: Servidor rodando na porta 3000
+2026-02-10 14:57:55:5755 info: Teste a API em: http://localhost:3000
+2026-02-10 14:58:10:5810 info: Servidor rodando na porta 3000
+2026-02-10 14:58:10:5810 info: Teste a API em: http://localhost:3000
+2026-02-10 14:58:13:5813 info: Servidor rodando na porta 3000
+2026-02-10 14:58:13:5813 info: Teste a API em: http://localhost:3000
+2026-02-10 14:58:16:5816 info: Servidor rodando na porta 3000
+2026-02-10 14:58:16:5816 info: Teste a API em: http://localhost:3000
+2026-02-10 14:58:29:5829 info: Servidor rodando na porta 3000
+2026-02-10 14:58:29:5829 info: Teste a API em: http://localhost:3000
+2026-02-10 16:10:31:1031 info: Servidor rodando na porta 3000
+2026-02-10 16:10:31:1031 info: Teste a API em: http://localhost:3000
+2026-02-10 16:10:48:1048 info: Servidor rodando na porta 3000
+2026-02-10 16:10:48:1048 info: Teste a API em: http://localhost:3000
+2026-02-10 16:10:59:1059 info: Servidor rodando na porta 3000
+2026-02-10 16:10:59:1059 info: Teste a API em: http://localhost:3000
+2026-02-10 16:11:03:113 info: Servidor rodando na porta 3000
+2026-02-10 16:11:03:113 info: Teste a API em: http://localhost:3000
+2026-02-10 16:11:07:117 info: Servidor rodando na porta 3000
+2026-02-10 16:11:07:117 info: Teste a API em: http://localhost:3000
+2026-02-10 16:11:14:1114 info: Servidor rodando na porta 3000
+2026-02-10 16:11:14:1114 info: Teste a API em: http://localhost:3000
+2026-02-10 16:11:16:1116 info: Servidor rodando na porta 3000
+2026-02-10 16:11:16:1116 info: Teste a API em: http://localhost:3000
+2026-02-10 17:27:08:278 warn: Validation Error on /auth/register: Email inválido
+2026-02-10 20:11:48:1148 error: [Tuya Service] Erro API: {"success":false,"msg":"getaddrinfo ENOTFOUND openapi.tuyaus.com"}
+2026-02-10 20:12:00:120 error: [Tuya Service] Erro API: {"success":false,"msg":"Client network socket disconnected before secure TLS connection was established"}

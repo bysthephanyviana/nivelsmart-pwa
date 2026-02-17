@@ -57,18 +57,29 @@ exports.formatSensorData = (rawData, lastSync) => {
         };
     }
 
-    // Verificação de Offline (ex: sem sync há mais de 10 min)
-    if (lastSync) {
+    // Verificação de Offline
+    // 1. Prioridade: Status vindo direto da Tuya (se disponível)
+    if (rawData.online === false) {
+        statusGeral = 'OFFLINE';
+        alerta = {
+            ativo: true,
+            tipo: ALERT_OFFLINE,
+            titulo: "Sensor Offline (Tuya)",
+            mensagem: "O dispositivo está desconectado da rede Wi-Fi."
+        };
+    }
+    // 2. Fallback: Verificação por tempo de sincronização (ex: sem sync há mais de 30 min)
+    else if (lastSync) {
         const diffMs = new Date() - new Date(lastSync);
         const diffMins = Math.floor(diffMs / 60000);
 
-        if (diffMins > 30) { // 30 minutos sem sinal
+        if (diffMins > 30) {
             statusGeral = 'OFFLINE';
             alerta = {
                 ativo: true,
                 tipo: ALERT_OFFLINE,
-                titulo: "Sensor Offline",
-                mensagem: `Sem comunicação com o sensor há ${diffMins} minutos.`
+                titulo: "Sensor Offline (Sync)",
+                mensagem: `Sem sincronização com o sistema há ${diffMins} minutos.`
             };
         }
     }

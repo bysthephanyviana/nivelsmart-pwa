@@ -25,7 +25,7 @@ function verifyToken(req, res, next) {
 }
 
 function isAdmin(req, res, next) {
-    if (req.userRole !== 'admin') {
+    if (req.userRole !== 'ADMIN') {
         return res.status(403).json({ message: 'Acesso negado. Requer perfil de Administrador.' });
     }
     next();

@@ -1,0 +1,17 @@
+2026-02-06 04:46:39:4639 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:46:39:4639 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:47:45:4745 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:47:45:4745 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:47:45:4745 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:47:45:4745 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:48:10:4810 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:48:10:4810 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:48:10:4810 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:48:10:4810 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:49:08:498 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:49:08:498 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:49:08:498 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 04:49:08:498 error: List Condominios Error: Unknown column 's.nivel' in 'field list'
+2026-02-06 05:04:10:410 error: Wizard Error: Sensor eb5961daada3fea21cvjau já está em uso.
+2026-02-10 20:11:48:1148 error: [Tuya Service] Erro API: {"success":false,"msg":"getaddrinfo ENOTFOUND openapi.tuyaus.com"}
+2026-02-10 20:12:00:120 error: [Tuya Service] Erro API: {"success":false,"msg":"Client network socket disconnected before secure TLS connection was established"}

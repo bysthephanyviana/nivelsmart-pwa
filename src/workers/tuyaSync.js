@@ -3,7 +3,6 @@ const db = require('../config/db');
 const tuyaService = require('../services/tuya.service');
 
 // Intervalo de sincronização: a cada 60 segundos
-// Pode ser '*/30 * * * * *' para 30 segundos
 const SYNC_INTERVAL = '*/60 * * * * *';
 
 async function syncSensors() {
@@ -20,35 +19,35 @@ async function syncSensors() {
 
         console.log(`[Worker] Sincronizando ${sensores.length} sensores...`);
 
-        // 2. Para cada sensor, buscar dados na Tuya e atualizar DB
-        // Usamos Promise.allSettled para não parar se um falhar
-        await Promise.allSettled(sensores.map(async (sensor) => {
+        // 2. Process Individually (Revert to "Old Format" logic)
+        // Iterate one by one to ensure stability and precise error handling per device
+        // Small delay to prevent rate limit spikes if many devices
+
+        for (const sensor of sensores) {
             try {
+                // Individual Fetch
                 const status = await tuyaService.getDeviceStatus(sensor.devId);
 
-                // Mapear campos para o banco
-                // status.current_level -> cache_nivel
-                // status completo -> cache_status
-
+                // Update Database
                 await db.execute(
                     `UPDATE sensores 
                      SET cache_nivel = ?, 
                          cache_status = ?, 
                          last_sync = NOW() 
-                     WHERE id = ?`,
+                     WHERE devId = ?`,
                     [
                         status.current_level,
                         JSON.stringify(status),
-                        sensor.id
+                        sensor.devId
                     ]
                 );
 
-                console.log(`[Worker] Sensor '${sensor.nome}' (${sensor.devId}) atualizado.`);
-
+                // console.log(`[Worker] Sensor ${sensor.devId} atualizado.`);
             } catch (err) {
-                console.error(`[Worker] Falha ao atualizar sensor '${sensor.nome}' (${sensor.devId}):`, err.message);
+                console.error(`[Worker] Falha ao atualizar sensor ${sensor.devId}:`, err.message);
+                // Continue to next sensor
             }
-        }));
+        }
 
         console.log('[Worker] Ciclo de sincronização finalizado.');
 
